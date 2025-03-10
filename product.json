@@ -1,0 +1,433 @@
+{
+    "products":[{
+    "id": 1,
+    "image": "https://i.ebayimg.com/images/g/LGAAAOSwBq9lqOaT/s-l960.jpg", 
+    "title": "Samsung Galaxy S24 Ultra ",
+    "category": "smartphone",
+    "price": 3649,
+    "date" : 2024,
+    "link" :"./product/Galaxy-s24-ultra.html",
+    "description": "The Samsung Galaxy S24 Ultra offers an impressive performance with its advanced camera system and sleek design.",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "image": "https://s3.zoommer.ge/site/cb67fff2-633b-479b-9c63-12e72f6f786c_Thumb.jpeg", 
+    "title": "Apple iPhone 15 Pro",
+    "category": "smartphone",
+    "price": 3399,
+    "date" : 2023,
+    "link" :"./product/iphone-15-pro.html",
+    "description": "The iPhone 15 Pro comes with a powerful chip, stunning display, and improved camera features for all your needs.",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "image": "https://s3.zoommer.ge/site/ef64cf76-c9bf-4aba-9a0e-fc58d988025d_Thumb.jpeg", 
+    "title": "Google Pixel 8 Pro ",
+    "category": "smartphone",
+    "price": 2549,
+    "date" : 2023,
+    "link" :"./product/Google Pixel 8 Pro.html",
+    "description": "Google Pixel 8 Pro offers top-notch AI integration and an excellent camera experience.",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "image": "https://s3.zoommer.ge/site/c5755d6e-81ea-410f-9a96-29d646cdf252_Thumb.jpeg", 
+    "title": "Xiaomi 14 12/512GB White",
+    "category": "smartphone",
+    "price": 2299,
+    "date" : 2023,
+    "link" :"./product/512.html",
+    "description": "Xiaomi 14 combines great performance with ample storage at a reasonable price.",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "image": "https://s3.zoommer.ge/zoommer-images/thumbs/0186134_samsung-galaxy-s23-ultra-5g-s918bds-12256gb-lavender_550.jpeg", 
+    "title": "Samsung Galaxy S23 Ultra ",
+    "category": "smartphone",
+    "price": 2700,
+    "date" : 2023,
+    "link" :"./product/Samsung Galaxy S23 Ultra.html",
+    "description": "The Galaxy S23 Ultra offers an unbeatable performance with a huge screen and amazing camera features.",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "image": "https://s3.zoommer.ge/zoommer-images/thumbs/0182344_apple-iphone-14-pro-128gb-space-black_550.jpeg", 
+    "title": "Apple iPhone 14 Pro  ",
+    "category": "smartphone",
+    "price": 3200,
+    "date" : 2022,
+    "link" :"./product/Apple iPhone 14 Pro.html",
+    "description": "The iPhone 14 Pro boasts exceptional build quality and a fantastic display with excellent camera performance.",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "image": "https://s3.zoommer.ge/site/88a693cc-cfe6-4f83-938b-eed18656beb8_Thumb.jpeg", 
+    "title": "Samsung Galaxy S24+",
+    "category": "smartphone",
+    "price": 2800,
+    "date" : 2023,
+    "link" :"./product/Samsung Galaxy S24+.html",
+    "description": "The Samsung Galaxy S24+ offers an impressive design with a larger display and top-tier performance.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "image": "https://s3.zoommer.ge/site/913f8201-5314-42c0-8323-e3b7d11c0848_Thumb.jpeg", 
+    "title": "Xiaomi 14 Ultra",
+    "category": "smartphone",
+    "price": 3600,
+    "date" : 2023,
+    "link" :"./product/Xiaomi 14 Ultra.html",
+    "description": "The Xiaomi 14 Ultra is an all-rounder with powerful specs and a stunning display.",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "image": "https://s3.zoommer.ge/site/c32491c6-38da-4e78-a11b-59857e521186_Thumb.jpeg", 
+    "title": "OnePlus 12 16/512GB Black",
+    "category": "smartphone",
+    "price": 2900,
+    "date" : 2023,
+    "link" :"./product/OnePlus 12 16/512GB Black.html",
+    "description": "The OnePlus 12 offers great performance with excellent battery life and fast charging.",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "image": "https://s3.zoommer.ge/site/09282735-add9-4c57-898c-7bfbd5c4885c_Thumb.jpeg", 
+    "title": "Apple iPhone 15",
+    "category": "smartphone",
+    "price": 2600,
+    "date" : 2023,
+    "link" :"./product/Apple iPhone 15.html",
+    "description": "iPhone 15 offers a perfect balance of performance, camera, and battery life.",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "image": "https://isurve.ge/cdn/shop/products/1-min_bce796a8-4ee3-4dd8-8a4f-f49e5afcc8ea_1024x1024@2x.jpg?v=1686115593",
+    "title": "Marshall Major IV",
+    "category": "headphone",
+    "price": 350,
+    "date": 2020,
+    "link": "./product/Marshall Major IV.html",
+    "description": "The Marshall Major IV offers an iconic design, long-lasting battery life, and great sound quality, making it a perfect companion for any music lover.",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "image": "https://assets.ee.ge/elit-product-images/IMG-000052608-1.jpg",
+    "title": "SONY WH-CH720N/WCE",
+    "category": "headphone",
+    "price": 290,
+    "date": 2020,
+    "link": "./product/SONY WH-CH720N/WCE.html",
+    "description": "The SONY WH-CH720N provides clear sound and noise cancellation at an affordable price, perfect for anyone who needs to block out distractions.",
+    "rating": 4.2
+  },
+  {
+    "id": 13,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/257/image_fsp3-3y.png.jpg",
+    "title": "Samsung Galaxy Buds 2 PRO",
+    "category": "headphone",
+    "price": 400,
+    "date": 2023,
+    "link": "./product/Samsung Galaxy Buds 2 PRO.html",
+    "description": "These buds offer superior sound quality and a comfortable fit, with active noise cancellation and impressive battery life.",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/240/124274_1.jpg.jpg",
+    "title": "Apple AirPods 3",
+    "category": "headphone",
+    "price": 650,
+    "date": 2023,
+    "link": "./product/Apple AirPods 3.html",
+    "description": "Apple AirPods 3 combine excellent sound quality with a sleek design, seamless connectivity, and long-lasting comfort.",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/225/116152_1.jpg.jpg",
+    "title": "Apple AirPods Max",
+    "category": "headphone",
+    "price": 1940,
+    "date": 2023,
+    "link": "./product/Apple AirPods Max.html",
+    "description": "Apple AirPods Max offers an immersive listening experience with high-fidelity audio and exceptional noise cancellation.",
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/248/129031_4.jpg.jpg",
+    "title": "Asus ROG Flow Z13",
+    "category": "computer",
+    "price": 5700,
+    "date": 2022,
+    "link": "./product/Asus ROG Flow Z13.html",
+    "description": "Asus ROG Flow Z13 is a high-performance gaming laptop with an ultra-portable design, ideal for gamers who need power on the go.",
+    "rating": 4.9
+  },
+  {
+    "id": 17,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/248/129031_4.jpg.jpg",
+    "title": "Asus TUF Gaming A15",
+    "category": "computer",
+    "price": 3500,
+    "date": 2021,
+    "link": "./product/Asus TUF Gaming A15.html",
+    "description": "The Asus TUF Gaming A15 is a durable, high-performance gaming laptop with great processing power and cooling systems.",
+    "rating": 4.4
+  },
+  {
+    "id": 18,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/287/1_zwqh-tl.png.jpg",
+    "title": "Asus TUF Gaming A16",
+    "category": "computer",
+    "price": 3100,
+    "date": 2022,
+    "link": "./product/Asus TUF Gaming A16.html",
+    "description": "The Asus TUF Gaming A16 provides impressive gaming performance with a solid design, great graphics, and effective cooling.",
+    "rating": 4.3
+  },
+  {
+    "id": 19,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/279/1_uzdb-et.png.jpg",
+    "title": "Asus ROG Strix G16",
+    "category": "computer",
+    "price": 3600,
+    "date": 2022,
+    "link": "./product/Asus ROG Strix G16.html",
+    "description": "Asus ROG Strix G16 is a powerful gaming laptop with excellent display and performance, designed to take on demanding games.",
+    "rating": 4.7
+  },
+  {
+    "id": 20,
+    "image": "https://alta.ge/images/detailed/279/1_hspf-f4.png",
+    "title": "Asus ROG Zephyrus Duo 16",
+    "category": "computer",
+    "price": 14000,
+    "date": 2022,
+    "link": "./product/Asus ROG Zephyrus Duo 16.html",
+    "description": "Asus ROG Zephyrus Duo 16 is a premium dual-screen gaming laptop, offering top-tier performance for gamers and content creators alike.",
+    "rating": 5.0
+  },
+  {
+    "id": 21,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CiNWpY0gV-4yV3ZRDrVZmSodDYIZ6ojHiQ&s",
+    "title": "Samsung S938B Galaxy S25",
+    "category": "smartphone",
+    "price": 1200,
+    "date": 2025,
+    "description": "The Samsung S938B Galaxy S25 offers cutting-edge features, a stunning display, and powerful performance, making it the ultimate smartphone for tech enthusiasts.",
+    "rating": 4.8
+  },
+  {
+    "id": 22,
+    "image": "https://s3.zoommer.ge/site/54bf9d6c-fd20-4657-aff0-9a56df7f16d8_Thumb.jpeg",
+    "title": "Asus ZenBook 14 UM3402YA-KP797",
+    "category": "laptop",
+    "price": 1500,
+    "date": 2024,
+    "description": "The Asus ZenBook 14 UM3402YA-KP797 is a sleek, powerful laptop with excellent battery life, a crisp display, and a top-tier performance for both work and entertainment.",
+    "rating": 4.7
+  },
+  {
+    "id": 23,
+    "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg",
+    "title": "Apple iPhone 16 Pro",
+    "category": "smartphone",
+    "price": 1300,
+    "date": 2025,
+    "description": "The Apple iPhone 16 Pro comes with advanced features such as a powerful A16 Bionic chip, improved camera system, and a stunning OLED display for the ultimate iPhone experience.",
+    "rating": 4.9
+  },
+  {
+    "id": 24,
+    "image": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-z-fold6/buy/colour-selection/Color-Selection_Silver_MO.png",
+    "title": "Samsung Galaxy Z Fold6",
+    "category": "smartphone",
+    "price": 2300,
+    "date": 2025,
+    "description": "The Samsung Galaxy Z Fold6 is a revolutionary foldable smartphone that offers a massive screen, smooth performance, and an innovative design for multitasking.",
+    "rating": 4.6
+  },
+  {
+    "id": 25,
+    "image": "https://cdn.gepa.ge/2402/02/38/61/b56dfe837cf4406bbb61864807ed13e8/9243-14793.png",
+    "title": "House of Marley Little Bird TWS Exec Earbuds",
+    "category": "headphone",
+    "price": 150,
+    "date": 2024,
+    "description": "The House of Marley Little Bird TWS Exec Earbuds are eco-friendly wireless earbuds with a clean design, great sound quality, and sustainable materials.",
+    "rating": 4.5
+  },
+  {
+    "id": 26,
+    "image": "https://assets.ee.ge/elit-product-mobile-images/IMG-000054170_66-1.jpg",
+    "title": "Sony KD-55X80L",
+    "category": "tv",
+    "price": 900,
+    "date": 2024,
+    "description": "The Sony KD-55X80L is a 55-inch 4K UHD smart TV with stunning picture quality, enhanced color accuracy, and a smooth viewing experience for all your entertainment needs.",
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "image": "https://i.rtings.com/assets/products/wiBNTsiC/apple-macbook-air-13-2022/design-medium.jpg?format=auto",
+    "title": "Apple MacBook Air 13 inch 2022",
+    "category": "laptop",
+    "price": 1099,
+    "rating": 4.7,
+    "description": "Apple's thinnest and lightest MacBook. Powered by Apple M2 chip with improved performance and longer battery life.",
+    "date": 2022
+  },
+  {
+    "id": 28,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRODpAZz8YfICOTCGl1qoKhu7tTQuWbzAGg&s",
+    "title": "MSI Katana 15 9S7-158571-2279",
+    "category": "laptop",
+    "price": 1499,
+    "rating": 4.5,
+    "description": "A powerful gaming laptop with Intel i7 processor and NVIDIA GeForce RTX 3060 for high performance gaming.",
+    "date": 2023
+  },
+  {
+    "id": 29,
+    "image": "https://zoommer.ge/_next/image?url=https%3A%2F%2Fs3.zoommer.ge%2Fsite%2Fa45db052-6a25-4a2d-a5dd-e2dac4f7d0ba_Thumb.jpeg&w=640&q=100",
+    "title": "Asus Vivobook 15 X1504VA-BQ1244",
+    "category": "laptop",
+    "price": 899,
+    "rating": 4.3,
+    "description": "A budget-friendly laptop featuring Intel Core i5 processor and a large display for productivity and entertainment.",
+    "date": 2023
+  },
+  {
+    "id": 30,
+    "image": "https://cdn.allmarket.ge/2412/96/24/09/e7a8232a7fdf482bbdf4979138cd986c/355295-1020397.png",
+    "title": "HP Victus 15 A75W3EA Mica Silver",
+    "category": "laptop",
+    "price": 999,
+    "rating": 4.4,
+    "description": "HP's gaming laptop with a sleek design, powered by AMD Ryzen 7 and NVIDIA GeForce GTX 1650.",
+    "date": 2023
+  },
+  {
+    "id": 31,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXD0Fx1vkD3Y7SMc3qjwlchkfubnErEQWFNQ&s",
+    "title": "OnePlus 13 5G 16/512GB Ocean Blue",
+    "category": "smartphone",
+    "price": 1299,
+    "rating": 4.6,
+    "description": "OnePlus' flagship with fast performance, stunning display, and 5G connectivity. Perfect for those looking for power and style.",
+    "date": 2024
+  },
+  {
+    "id":32,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ZSo2QA40AiDxVWwkgFzn4MUw1j4sUiQNxQ&s",
+    "title": "Apple iPhone 16 | 128GB Ultramarine",
+    "category": "smartphone",
+    "price": 1099,
+    "rating": 4.8,
+    "description": "The iPhone 16 offers cutting-edge performance with the A16 Bionic chip, all-day battery life, and stunning Ultramarine finish.",
+    "date": 2024
+  },
+  {
+    "id": 33,
+    "image": "https://zoommer.ge/_next/image?url=https%3A%2F%2Fs3.zoommer.ge%2Fsite%2Fe8ea7e84-f367-4411-a1e6-c73b8ba88ab6_Thumb.jpeg&w=640&q=100",
+    "title": "Realme C61 NFC 6/128GB",
+    "category": "smartphone",
+    "price": 299,
+    "rating": 4.2,
+    "description": "Affordable 5G smartphone with NFC, a decent camera setup, and long battery life.",
+    "date": 2024
+  },
+  {
+    "id": 34,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLy1iK5wOjZIc2Vh32V40a7rdnlJe1GxEGg&s",
+    "title": "JBL GO 4 Pink",
+    "category": "speaker",
+    "price": 79,
+    "rating": 4.4,
+    "description": "Compact portable Bluetooth speaker with great sound and a long-lasting battery, perfect for outdoor adventures.",
+    "date": 2023
+  },
+  {
+    "id": 35,
+    "image": "https://s3.zoommer.ge/site/19149bd2-d3d6-4e38-a95a-8939d3c898c5_Thumb.jpeg",
+    "title": "Samsung SM-R400 Galaxy Buds FE",
+    "category": "headphone",
+    "price": 99,
+    "rating": 4.5,
+    "description": "True wireless earbuds with good sound quality, long battery life, and easy pairing with Samsung devices.",
+    "date": 2023
+  },
+  {
+    "id": 36,
+    "image": "https://www.istudio.store/cdn/shop/files/airpodsmax-starlight.003.jpg?v=1726109096&width=823",
+    "title": "Apple AirPods Max Gen 2 Starlight",
+    "category": "headphone",
+    "price": 549,
+    "rating": 4.6,
+    "description": "Apple's high-end over-ear headphones with noise cancellation and exceptional sound quality, designed for audiophiles.",
+    "date": 2024
+  },
+  {
+    "id": 37,
+    "image": "https://zoommer.ge/_next/image?url=https%3A%2F%2Fs3.zoommer.ge%2Fzoommer-images%2Fthumbs%2F0198933_apple-airpods-pro-2-with-usb-c-charging-case-mtjv3-2023_550.jpeg&w=640&q=100",
+    "title": "Apple AirPods Pro 2 With USB-C Charging Case",
+    "category": "headphone",
+    "price": 249,
+    "rating": 4.7,
+    "description": "The second generation of AirPods Pro with improved active noise cancellation and a new USB-C charging case.",
+    "date": 2024
+  },
+  {
+    "id": 38,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXF4cTAaxSZM283u8UyIj683xTUnQSpPsfog&s",
+    "title": "Xiaomi Redmi Note 14 4G 8/256GB",
+    "category": "smartphone",
+    "price": 399,
+    "rating": 4.3,
+    "description": "Xiaomi's budget 4G smartphone with large storage, great battery life, and solid performance for everyday tasks.",
+    "date": 2024
+  },
+  {
+    "id": 39,
+    "image": "https://superi.ge/images/detailed/27/81_3BnMeUtL._SL1500_.jpg",
+    "title": "Realme 13 Pro NFC 5G 12/512GB",
+    "category": "smartphone",
+    "price": 499,
+    "rating": 4.5,
+    "description": "A powerful 5G smartphone with a high-resolution camera, large storage, and a fast charging solution.",
+    "date": 2024
+  },
+  {
+    "id": 40,
+    "image": "https://s3.zoommer.ge/site/fdfdc5e6-a6a4-4d13-8e4e-129009861c6f_Thumb.jpeg",
+    "title": "Apple iPad Air 11 2024 M2 128GB",
+    "category": "tablet",
+    "price": 799,
+    "rating": 4.6,
+    "description": "A lightweight tablet powered by Apple's M2 chip with a beautiful 11-inch Retina display.",
+    "date": 2024
+  },
+  {
+    "id": 41,
+    "image": "https://s3.zoommer.ge/zoommer-images/thumbs/0178315_benq-ew2880u-9hlkslbqbe-black_550.jpeg",
+    "title": "BenQ EW2880U 9H.LKSLB.QBE",
+    "category": "monitor",
+    "price": 599,
+    "rating": 4.4,
+    "description": "A 28-inch 4K UHD monitor with excellent color accuracy and built-in sound system, ideal for work and entertainment.",
+    "date": 2023
+  
+  }
+  ]}
